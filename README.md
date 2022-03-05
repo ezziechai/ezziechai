@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezziechai.
-- 👀 I’m interested in coding.
+- 👀 I’m interested in learning le français!
 - 🌱 I’m currently learning how to code on Code Ninjas!
 
 <!---
